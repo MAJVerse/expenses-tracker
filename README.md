@@ -30,7 +30,7 @@ python expense_tracker_sqlite.py
 ```
 
 ## Live demo
-Add your Streamlit link here after deploying.
+https://expenses-tracker-bpnd2cetxvergwiwudtkp5.streamlit.app/
 
 ## Built with
 Python, SQLite, Streamlit, pandas
